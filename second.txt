@@ -1,1 +1,2 @@
 This is the initial changes in second file
+Added ‘new’ branch
